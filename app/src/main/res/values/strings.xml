@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">ActvSpinnTest</string>
+    <string-array name="states">
+
+        <item>Andhra Pradesh (Hyderabad)</item>
+
+        <item>Arunachal Pradesh (Itanagar)</item>
+
+        <item>Assam (Dispur)</item>
+
+        <item>Bihar (Patna)</item>
+
+        <item>Chhattisgarh (Raipur)</item>
+
+        <item>Goa (Panaji)</item>
+
+        <item>Gujarat (Gandhinagar)</item>
+        <item> Haryana Chandigarh</item>
+
+        <item>Himachal Pradesh (Shimla)</item>
+
+        <item>Jammu and Kashmir (Srinagar)</item>
+
+        <item>Jharkhand (Ranchi)</item>
+
+        <item>Karnataka (Bengaluru)</item>
+
+        <item>Kerala (Thiruvananthapuram)</item>
+
+        <item>Madhya Pradesh (Bhopal)</item>
+
+        <item>Maharashtra (Mumbai)</item>
+
+        <item>Manipur (Imphal)</item>
+
+        <item>Meghalaya (Shillong)</item>
+
+        <item>Mizoram (Aizawl)</item>
+
+        <item>Nagaland (Kohima)</item>
+
+        <item>Odisha (Bhubaneswar)</item>
+
+        <item>Punjab (Chandigarh)</item>
+
+        <item>Rajasthan (Jaipur)</item>
+
+        <item>Sikkim (Gangtok)</item>
+
+        <item>Tamil Nadu (Chennai)</item>
+
+        <item>Telangana (Hyderabad)</item>
+
+        <item>Tripura (Agartala)</item>
+
+        <item>Uttar Pradesh (Lucknow)</item>
+
+        <item>Uttarakhand (Dehradun)</item>
+
+        <item>West Bengal (Kolkata)</item>
+
+
+    </string-array>
+</resources>
